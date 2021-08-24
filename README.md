@@ -1,5 +1,4 @@
 # Airbnb-clone
+Airbnb clone app using React.
 
-### [ Demo site 1 ](https://airbnb-clone-a24b6.web.app/)
-
-### [ Demo site 2 ](https://siki-aayush.github.io/airbnb-clone/)
+### [Demo here!!](https://airbnb-clone-a24b6.web.app/)
